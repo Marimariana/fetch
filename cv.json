@@ -1,24 +1,31 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Mariana Nilo",
+    "cvTitle":"Diseñadora multimedia",
+    "cvDescription":"Me identifico como una diseñadora con un fuerte enfoque en los medios digitales de comunicación, he realizado trabajos de forma independiente, desarrollando proyectos de difusión musical, animación y modelado 3D. 
+
+    Estoy convencida de que una comunicación es efectiva cuando existe una comunicación dinámica y fluida con el cliente, es por ello que actualmente me estoy formando en el área de la programación frontend, con el fin de potenciar los futuros proyectos de una manera más interactiva y acorde a los nuevos tiempos.",
     "social":[
-        {"name":"", "link":""}
+        {"name":"twitter", "link":"https://twitter.com/marimariana___"}
+        {"name":"Linkedin", "link":"https://www.linkedin.com/in/mariana-nilo/"}
+        {"name":"Instagram", "link":"https://www.instagram.com/marimarciana"}
+        {"name":"Behance", "link":"https://www.behance.net/marimariana"}
+
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Diseñadora Industrial", "institution":"FADU-UBA", "endYear":"2017", "description":"En proceso"},
+        {"title":"Diseño Gráfico", "institution":"FADU-UBA", "endYear":"2020", "description":""}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"Animación 2D", "level":""},
+        {"title":"Fotomontaje", "level":""}
+        {"title":"Modelado 3D"}
     ],
     "blog":[
         {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
         {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"+56 11 22530538",
+        "email":"nilomariana@gmail.com"
     }
 }
